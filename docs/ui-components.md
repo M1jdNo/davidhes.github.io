@@ -5,11 +5,11 @@ nav_order: 99
 
 ## UI-Design
 
-![get_list_todos_sample](assets/images/1.png)
+## ![get_list_todos_sample](assets/images/1.png)
 > Zu sehen ist die Startseite.
 
-##
-![get_list_todos_sample](assets/images/4.png)
+
+## ![get_list_todos_sample](assets/images/4.png)
 > Zu sehen ist die Browse-Seite. Hier werden alle Angebote der Bäckereien angezeigt.
 
 ##
