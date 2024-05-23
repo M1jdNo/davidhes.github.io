@@ -15,5 +15,5 @@ callouts:
   download:
     title: 💾 Download
     color: grey-dk
-  additional_css:
+additional_css:
   - assets/css/custom.css
