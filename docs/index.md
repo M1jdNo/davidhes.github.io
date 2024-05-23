@@ -2,9 +2,9 @@
 title: Home
 nav_order: 0
 ---
-# Berlins Bakeries
+## Berlins Bakeries
 
-Projektbeschreibung:
+# Projektbeschreibung:
 Kernidee unserer Webanwendung ist es, eine Plattform für Bäckereien zu schaffen, um ihre
 überschüssigen Backwaren anzubieten. Über ein Verkäufer-Hub können sich die Bäckereien
 registrieren und dort ihr Angebot einstellen. Kunden können sich ebenso registrieren und haben
@@ -33,7 +33,7 @@ Um den Betrieb der Plattform finanzieren zu können, behalten wir jedoch 5% des 
 Bäckerei ein.
 Ebenso werden wir eine Rankingseite schaffen, die die am bestbewerteten Bäckereien anzeigt.
 
-Unsere Ziele:
+# Unsere Ziele:
 Unser Ziel als Gruppe ist es, eine vollfunktionsfähige und benutzerfreundliche Webanwendung
 zu entwickeln, welche man auch so in Realität anbieten könnte. Konkret möchten wir eine
 reibungslose Funktionalität bei der Datenbankanbindung haben. Hiermit beschäftigt sich Majd
