@@ -5,7 +5,6 @@ nav_order: 99
 
 ## UI-Design
 
-##
 ![get_list_todos_sample](assets/images/1.png)
 > Zu sehen ist die Startseite.
 
