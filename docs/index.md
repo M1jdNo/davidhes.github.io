@@ -44,13 +44,11 @@ kümmern.
 
 ### Majd Noameh
 
-Matr.-Nr.
-: 1234567
+Matr.-Nr.: 1234567
 
 ### David Heßburg
 
-Matr.-Nr.
-: 77211976094
+Matr.-Nr.: 77211976094
 
 ## Eidesstattliche Erklärung
 
