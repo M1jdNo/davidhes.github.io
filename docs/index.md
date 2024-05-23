@@ -8,7 +8,7 @@ nav_order: 0
 >
 > You may delete this `attention` box.
 
-# [Berlins Bakeries]
+# Berlins Bakeries
 
 Projektbeschreibung:
 Kernidee unserer Webanwendung ist es, eine Plattform für Bäckereien zu schaffen, um ihre
@@ -48,12 +48,12 @@ kümmern.
 
 ## Team members
 
-### [Majd Noameh]
+### Majd Noameh
 
 Matr.-Nr.
 : 1234567
 
-### [David Heßburg]
+### David Heßburg
 
 Matr.-Nr.
 : 77211976094
