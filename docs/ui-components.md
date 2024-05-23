@@ -24,10 +24,10 @@ For a quick reference of the markdown syntax, visit [this page](https://github.c
 ## Images
 
 
-![get_list_todos_sample](assets/images/1)
+![get_list_todos_sample](assets/images/1.png)
 
-![get_list_todos_sample](assets/images/2)
-![get_list_todos_sample](assets/images/3)
+![get_list_todos_sample](assets/images/2.png)
+![get_list_todos_sample](assets/images/3.png)
 
 ![get_list_todos_sample](assets/images/fswd-intro_02.png)
 
