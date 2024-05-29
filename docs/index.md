@@ -9,8 +9,9 @@ Kernidee unserer Webanwendung ist es, eine Plattform für Bäckereien zu schaffe
 überschüssigen Backwaren anzubieten. Über ein Verkäufer-Hub können sich die Bäckereien
 registrieren und dort ihr Angebot einstellen. Kunden können sich ebenso registrieren und haben
 dann die Möglichkeit, in einer übersichtlichen Ansicht, zwischen den Angeboten zu wählen.
-Jeden Tag haben die Bäckereien aufs Neue die Möglichkeit ihr aktuelles Angebot einzustellen.
-Hierbei geben sie die Backwarenart, die Menge und den Preis an.
+Einmalig erstellen die Bäckereien ein oder mehrere Angebote.
+Hierbei geben sie die Backwarenart, die Menge und den Preis an. Täglich aktualisieren die Bäckereien 
+daraufhin nur noch die Anzahl der "Tüten", je nachdem wie viele Backwaren noch übrig sind.
 Mittels einer Suchleiste kann der Kunde direkt nach dem Namen einer Bäckerei suchen.
 Ebenfalls hat er die Möglichkeit, nach gewissen Kategorien (Backwarenart, Entfernung,
 Bewertungen etc.) zu filtern. Mithilfe einer eingebetteten Karte kann der Kunde auch die
