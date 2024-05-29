@@ -9,6 +9,7 @@ nav_order: 0
 - [Value Proposition](value-proposition.md)
 - [Data Model](technical-docs/data-model.md)
 - [UI Components](ui-components.md)
+- [Contribution / Aufteilung der Aufgaben](contributions.md)
 
 ### Projektbeschreibung:
 Kernidee unserer Webanwendung ist es, eine Plattform für Bäckereien zu schaffen, um ihre
