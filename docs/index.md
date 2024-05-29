@@ -10,6 +10,7 @@ nav_order: 0
 - [Data Model](technical-docs/data-model.md)
 - [UI Components](ui-components.md)
 - [Contribution / Aufteilung der Aufgaben](team-eval/contributions.md)
+- [Zeitplan](time-schedule.md)
 
 ### Projektbeschreibung:
 Kernidee unserer Webanwendung ist es, eine Plattform für Bäckereien zu schaffen, um ihre
