@@ -31,20 +31,25 @@ Unsere Zielgruppe umfasst vor allem Verbraucher, die Wert auf möglichst wenig L
 
 ### 1. Startpunkt:
 Bäckereien: Registrieren und einloggen im Verkäufer-Hub. Einmaliges Erstellen eines Profils sowie das Erstellen der bzw. des Angebote(s).
+
 Kunden: Registrieren und in die Plattform einloggen. Dabei erstellen auch diese ein Profil.
 
 ### 2. Erkundung der Angebote:
 Bäckereien: Tägliche Aktualisierung der Angebote in dessen Anzahl, je nachdem wie viele Backwaren insgesamt noch übrig sind.
+
 Kunden: Mit Filtern und der Suchfunktion die gewünschten Backwaren finden, Bäckerei-Profile, Produktdetails und Standorte auf der Karte einsehen.
 
 ### 3. Auswahl und Kauf:
 Bäckereien: Benachrichtigungen über Käufe erhalten und Waren für die Abholung vorbereiten.
+
 Kunden: Artikel auswählen, den Kauf über die bevorzugte Zahlungsmethode abschließen und einen Abholcode erhalten.
 
 ### 4. Abholung und Bewertung:
 Bäckereien: Kunden-Codes bei der Abholung überprüfen und die Backwaren ausgeben.
+
 Kunden: Waren abholen, die Bäckerei bewerten und gegebenenfalls Rabattcoupons für zukünftige Einkäufe erhalten.
 
 ### 5. Nach dem Kauf:
 Bäckereien: Verkaufsdaten und Kundenfeedback analysieren, um das Geschäft zu verbessern. Ggf. ein Angebot aktualisieren, löschen oder ein Neues hinzufügen.
+
 Kunden: Die gekauften Backwaren genießen und ggf. Coupons bei nächstem Einkauf verwenden.
