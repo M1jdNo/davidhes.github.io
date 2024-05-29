@@ -17,5 +17,5 @@ nav_order: 2
 {: toc }
 </details>
 
-![get_list_todos_sample](assets/images/4.png)
+![get_list_todos_sample](assets/images/Data Model.png)
 > Zu sehen ist unser Data Model, mit all seinen Tabellen inkl. derer Primary- und Foreign-Keys.
