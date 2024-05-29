@@ -4,7 +4,6 @@ parent: Technical Docs
 nav_order: 2
 ---
 
-{: .no_toc }
 # Data model
 
 
