@@ -17,4 +17,5 @@ nav_order: 2
 {: toc }
 </details>
 
-[Visualize and describe the data model(s) of your application. This description should match the actual implementation.]
+![get_list_todos_sample](assets/images/4.png)
+> Zu sehen ist unser Data Model, mit all seinen Tabellen inkl. derer Primary- und Foreign-Keys.
