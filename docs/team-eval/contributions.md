@@ -4,29 +4,15 @@ parent: Team Evaluation
 nav_order: 4
 ---
 
-{: .label }
-[Jane Dane]
-
 {: .no_toc }
 # Summary of individual contributions
 
-<details open markdown="block">
-{: .text-delta }
-<summary>Table of contents</summary>
-+ ToC
-{: toc }
-</details>
-
-## [Jane Dane]
+## [Majd Noameh]
 
 Contributions
-: Lorem ipsum dolor
-: Consetetur sadipscing elitr
-: ...
+: Responsible for Python programming and primary database management. This includes designing and implementing the database structure as well as integrating database queries into the web application.
 
-## [Joe Doe]
+## [David Heßburg]
 
 Contributions
-: Diam nonumy eirmod
-: Tempor invidunt ut labore
-: ...
+: Responsible for Python programming and API integration. This involves creating requests to APIs, processing the responses, and incorporating the API data into the web application.
