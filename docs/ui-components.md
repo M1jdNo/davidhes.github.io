@@ -28,6 +28,5 @@ nav_order: 99
 > Zu sehen ist die Settings-Seite, auf welcher die Unternehmen zwischen den verschiedenen Seiten wählen können.
 
 ![get_list_todos_sample](assets/images/7.png)
-{: .info }
 > Zu sehen ist die Seite, auf welcher die Bäckereien ihr Angebot hochladen.
 
