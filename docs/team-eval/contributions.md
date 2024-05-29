@@ -15,4 +15,4 @@ Contributions
 ## David Heßburg
 
 Contributions
-: Responsible for Python programming and API integration. This involves creating requests to APIs, processing the responses, and incorporating the API data into the web application.
+: Responsible for Python programming, API integration, HTML and CSS. This involves creating requests to APIs, processing the responses, incorporating API data, and developing the frontend of the web application.
