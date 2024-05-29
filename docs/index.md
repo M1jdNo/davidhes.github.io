@@ -7,7 +7,7 @@ nav_order: 0
 ### Inhaltsverzeichnis
 
 - [Value Proposition](value-proposition.md)
-- [Data Model](data-model.md)
+- [Data Model](technical-docs/data-model.md)
 - [UI Components](ui-components.md)
 
 ### Projektbeschreibung:
