@@ -4,6 +4,12 @@ nav_order: 0
 ---
 # Berlins Bakeries
 
+### Inhaltsverzeichnis
+
+- [Value Proposition](value-proposition.md)
+- [Data Model](data-model.md)
+- [UI Components](ui-components.md)
+
 ### Projektbeschreibung:
 Kernidee unserer Webanwendung ist es, eine Plattform für Bäckereien zu schaffen, um ihre
 überschüssigen Backwaren anzubieten. Über ein Verkäufer-Hub können sich die Bäckereien
