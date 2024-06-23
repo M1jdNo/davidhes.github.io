@@ -16,77 +16,62 @@ nav_order: 3
 {: toc }
 </details>
 
-## 01: [Title]
 
+## 01: [CSS Style]
 ### Meta
 
 Status
-: **Work in progress** - Decided - Obsolete
+: **Work in progress** 
 
 Updated
-: DD-MMM-YYYY
+: 20.06.2024
 
 ### Problem statement
 
-[Describe the problem to be solved or the goal to be achieved. Include relevant context information.]
+For the web application, we need a CSS file or at least some CSS to style the web application. The problem is that writing custom CSS code for the entire site is very time-consuming, and since we don't have much time, we need to find a quick solution that allows us to style the website according to our preferences.
 
 ### Decision
 
-[Describe **which** design decision was taken for **what reason** and by **whom**.]
+We (Majd) have decided to use Bootstrap as a framework to create the CSS styles for the website for the following reasons. Firstly, using Bootstrap offers a significantly faster development process compared to writing our own CSS file, which is crucial for us as we don't have a lot of time and want to focus on the database and the functionality of the web application. Secondly, Bootstrap includes a built-in responsive grid system that makes it easier to adapt to different screen sizes.
 
 ### Regarded options
+	
+Pro	Con
 
-[Describe any possible design decision that will solve the problem. Assess these options, e.g., via a simple pro/con list.]
+Custom CSS File	-Full control over the styling
+-Unique, custom design	-Time-consuming
+Bootstrap	-Fast development
+-Low effort
+-Suitable for CSS beginners	-High load time due to the many Bootstrap libraries
+-Less design flexibility
 
----
+----
 
-## [Example, delete this section] 01: How to access the database - SQL or SQLAlchemy 
-
+## 02: [Database]
 ### Meta
 
 Status
-: Work in progress - **Decided** - Obsolete
+: **Work in progress** 
 
 Updated
-: 30-Jun-2024
+: 20-06-2024
 
 ### Problem statement
 
-Should we perform database CRUD (create, read, update, delete) operations by writing plain SQL or by using SQLAlchemy as object-relational mapper?
-
-Our web application is written in Python with Flask and connects to an SQLite database. To complete the current project, this setup is sufficient.
-
-We intend to scale up the application later on, since we see substantial business value in it.
-
-
-
-Therefore, we will likely:
-Therefore, we will likely:
-Therefore, we will likely:
-
-+ Change the database schema multiple times along the way, and
-+ Switch to a more capable database system at some point.
+Our goal is to set up a database for our web application where we can manage tables with values. We want to be able to upload, add, delete, and create tables and tuples easily, without writing extensive code. Additionally, we need the capability to upload pictures for the bakery's offers.
 
 ### Decision
 
-We stick with plain SQL.
-
-Our team still has to come to grips with various technologies new to us, like Python and CSS. Adding another element to our stack will slow us down at the moment.
-
-Also, it is likely we will completely re-write the app after MVP validation. This will create the opportunity to revise tech choices in roughly 4-6 months from now.
-*Decision was taken by:* github.com/joe, github.com/jane, github.com/maxi
+Our decision is to use Google Firebase. We chose this platform because it is fast and easy to use, thanks to its well-defined methods. This simplifies our programming process, eliminating the need for lengthy SQL queries that can often lead to small, hard-to-detect mistakes. Also, we already has some experience with Firebase's Realtime Database and Storage for uploading pictures, which will be beneficial for our project.
 
 ### Regarded options
 
-We regarded two alternative options:
+	Pro	Con
+Google Firebase	- We know how to write
+-  Fast and easy to use, because of well-defined methods.
+ 	- SQLAlchemy not possible
 
-+ Plain SQL
-+ SQLAlchemy
-
-| Criterion | Plain SQL | SQLAlchemy |
-| --- | --- | --- |
-| **Know-how** | ✔️ We know how to write SQL | ❌ We must learn ORM concept & SQLAlchemy |
-| **Change DB schema** | ❌ SQL scattered across code | ❔ Good: classes, bad: need Alembic on top |
-| **Switch DB engine** | ❌ Different SQL dialect | ✔️ Abstracts away DB engine |
-
+Plain Sql	- We know how to write 
+	- Need for lengthy SQL queries
+SQLAlchemy	- No need for lengthy SQL queries	- We must learn ORM concept & SQLAlchemy
 ---
